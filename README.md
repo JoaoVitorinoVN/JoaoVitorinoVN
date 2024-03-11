@@ -9,7 +9,7 @@ Bem-vindo ao perfil de
   <li>Profissional de AutoCAD 2D</li>
 </ul>
 
-<h2>⬛ Links de acesso rápido::</h2>
+<h2>⬛ Links de acesso rápido:</h2>
 <ul>
   <li>Atividades para TSPI: https://github.com/JoaoVitorinoVN/AtividadesSPI-3</li>
   <li>LinkedIn: </li>
