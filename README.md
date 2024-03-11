@@ -13,5 +13,5 @@ Bem-vindo ao perfil de
 <ul>
   <li>Atividades para TSPI: https://github.com/JoaoVitorinoVN/AtividadesSPI-3</li>
   <li>LinkedIn: </li>
-  <li>Discord: *@jojowakagiogiow</li>
+  <li>Discord: @jojowakagiogiow</li>
 </ul>
