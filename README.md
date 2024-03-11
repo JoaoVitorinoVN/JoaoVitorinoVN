@@ -1,10 +1,17 @@
 Bem-vindo ao perfil de 
 # ***João Vitorino V. Neto***
-⬛ Formação educacional:
-• Estudante do curso de Sistemas para Internet (Tecnólogo)
-• Desenvolvedor FullStack
-• Técnico em Redes de Computadores
-• Profissional de AutoCAD 2D
 
-⬛ Links de acesso rápido:
-• Atividades para TSPI: https://github.com/JoaoVitorinoVN/AtividadesSPI-3
+<h2>⬛ Formação educacional:</h2>
+<ul>
+  <li>Estudante do curso de Sistemas para Internet (Tecnólogo)</li>
+  <li>Desenvolvedor FullStack</li>
+  <li>Técnico em Redes de Computadores</li>
+  <li>Profissional de AutoCAD 2D</li>
+</ul>
+
+<h2>⬛ Links de acesso rápido::</h2>
+<ul>
+  <li>Atividades para TSPI: https://github.com/JoaoVitorinoVN/AtividadesSPI-3</li>
+  <li>LinkedIn: </li>
+  <li>Discord: *@jojowakagiogiow</li>
+</ul>
