@@ -1,4 +1,4 @@
-<h1 style="text-align: center"><i>João Vitorino V. Neto</i></h1> 
+<h1><i>João Vitorino V. Neto</i></h1> 
 
 <h2>🎓 Formação educacional:</h2>
 <ul>
