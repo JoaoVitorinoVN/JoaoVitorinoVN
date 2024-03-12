@@ -1,5 +1,4 @@
-Bem-vindo ao perfil de 
-# ***João Vitorino V. Neto***
+<h1 style="text-align: center"><i>João Vitorino V. Neto</i></h1> 
 
 <h2>🎓 Formação educacional:</h2>
 <ul>
