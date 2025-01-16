@@ -1,20 +1,15 @@
-<h1><i>João Vitorino Vieira Neto</i></h1> 
-
-<h2>🎓 Formação educacional:</h2>
+<h1><i>🔹João Vitorino Vieira Neto</i></h1> 
 <ul>
-  <li>Estudante do curso de Sistemas para Internet (Tecnólogo)</li>
-  <li>Desenvolvedor FullStack</li>
+  <li>Dev. FullStack</li>
   <li>Técnico em Redes de Computadores</li>
-  <li>Profissional de AutoCAD 2D</li>
 </ul>
 <h2>📞 Contato e Perfil:</h2>
 <ul>
-  <li>LinkTree: https://linktr.ee/jojowakagiogiow</li>
   <li>Discord: @jojowakagiogiow</li>
 </ul>
 
 <h2>🔗 Links de acesso rápido:</h2>
 <ul>
-  <li>Atividades para TSPI: https://github.com/JoaoVitorinoVN/AtividadesSPI-3</li>
+  <li>GoTesting: https://github.com/JoaoVitorinoVN/GoTesting</li>
 </ul>
 
