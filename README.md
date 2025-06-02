@@ -5,7 +5,7 @@
 </ul>
 <h2>📞 Contato e Perfil:</h2>
 <ul>
-  <li>Discord: @jojowakagiogiow</li>
+  <li>Discord: @joaovitorinovn</li>
 </ul>
 
 <h2>🔗 Links de acesso rápido:</h2>
